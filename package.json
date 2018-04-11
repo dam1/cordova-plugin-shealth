@@ -1,0 +1,33 @@
+{
+  "version": "0.8.0",
+  "name": "cordova-plugin-shealth",
+  "cordova_name": "SHealth",
+  "description": "A plugin that sync with Samsung Health",
+  "license": "MIT",
+  "author": "Dario Salvi",
+  "homepage": "https://github.com/dam1/cordova-plugin-shealth",
+  "repo": "https://github.com/dam1/cordova-plugin-shealth.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dam1/cordova-plugin-shealth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dam1/cordova-plugin-shealth/issues"
+  },
+  "issue": "https://github.com/dam1/cordova-plugin-shealth/issues",
+  "keywords": [
+    "Samsing Health",
+    "health",
+    "fitness",
+    "ecosystem:cordova"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    }
+  ]
+}
